@@ -15,26 +15,6 @@ A disciplina abordou conceitos fundamentais e aplicações práticas de **redes 
 
 ---
 
-## 🗂 Estrutura do Repositório
-
-memorial-redes-neurais/
-├── Feras Formidáveis/
-│ └── Fera Formidável 4.2.ipynb
-│ └── Fera Formidável 4.9.ipynb
-│ └── Fera Formidável 4.10.ipynb
-│ └── Fera Formidável 4.11.ipynb
-│ └── Fera Formidável 4.12.ipynb
-│ └── Fera Formidável 4.16.ipynb
-├── Monstrinhos/
-│ └── Monstrinho 3.1.pdf
-│ └── Monstrinho 3.2.ipynb
-│ └── Monstrinho 3.3.ipynb
-│ └── Monstrinho 3.4.ipynb
-│ └── Monstrinho 3.10.ipynb
-└── README.md
-
----
-
 ## 💻 Projetos Desenvolvidos
 
 | Projeto | Descrição |
