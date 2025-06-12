@@ -11,7 +11,7 @@ A disciplina abordou conceitos fundamentais e aplicações práticas de **redes 
 - Estrutura e funcionamento de redes neurais
 - Treinamento supervisionado e não supervisionado
 - Algoritmos evolutivos e otimização bioinspirada
-- Aplicações práticas em classificação, regressão e otimização
+- Aplicações práticas em otimização
 
 ---
 
