@@ -17,6 +17,21 @@ A disciplina abordou conceitos fundamentais e aplicações práticas de **redes 
 
 ## 🗂 Estrutura do Repositório
 
+memorial-redes-neurais/
+├── Feras Formidáveis/
+│ └── Fera Formidável 4.2.ipynb
+│ └── Fera Formidável 4.9.ipynb
+│ └── Fera Formidável 4.10.ipynb
+│ └── Fera Formidável 4.11.ipynb
+│ └── Fera Formidável 4.12.ipynb
+│ └── Fera Formidável 4.16.ipynb
+├── Monstrinhos/
+│ └── Monstrinho 3.1.pdf
+│ └── Monstrinho 3.2.ipynb
+│ └── Monstrinho 3.3.ipynb
+│ └── Monstrinho 3.4.ipynb
+│ └── Monstrinho 3.10.ipynb
+└── README.md
 
 ---
 
@@ -24,7 +39,8 @@ A disciplina abordou conceitos fundamentais e aplicações práticas de **redes 
 
 | Projeto | Descrição |
 |--------|-----------|
-| **Projeto 1: Perceptron** | Implementação e análise de um classificador Perceptron simples. |
+| **Monstrinho 3.1: “Eu podia jurar que não veria grafos nunca mais na minha
+vida” — aluno da turma 2024 que não quis se identificar** | Implementação e análise de um classificador Perceptron simples. |
 | **Projeto 2: Rede Neural Multicamadas** | Desenvolvimento e treinamento de uma rede MLP com backpropagation. |
 | **Projeto 3: Algoritmo Genético** | Otimização de funções utilizando algoritmos genéticos. |
 | **Projeto 4: Integração RNA + AG** | Solução de problema real combinando redes neurais e algoritmos genéticos. |
@@ -39,11 +55,11 @@ A pasta `reflexao-final/` contém um texto com reflexões pessoais sobre o apren
 
 ## 👨‍🎓 Informações Acadêmicas
 
-- **Aluno:** [Seu Nome]  
-- **Curso:** [Nome do Curso]  
-- **Instituição:** [Nome da Instituição]  
+- **Aluno:** Andressa Cristine Marinho Costa  
+- **Curso:** Bacharelado em Ciência e Tecnologia  
+- **Instituição:** Ilum - Escola de Ciências  
 - **Semestre:** 2025/1  
-- **Professor(a):** [Nome do(a) Professor(a), se desejar incluir]
+- **Professor(a):** Daniel R. Cassar
 
 ---
 
