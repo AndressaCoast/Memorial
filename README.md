@@ -39,11 +39,10 @@ memorial-redes-neurais/
 
 | Projeto | Descrição |
 |--------|-----------|
-| **Monstrinho 3.1: “Eu podia jurar que não veria grafos nunca mais na minha
-vida” — aluno da turma 2024 que não quis se identificar** | Implementação e análise de um classificador Perceptron simples. |
-| **Projeto 2: Rede Neural Multicamadas** | Desenvolvimento e treinamento de uma rede MLP com backpropagation. |
-| **Projeto 3: Algoritmo Genético** | Otimização de funções utilizando algoritmos genéticos. |
-| **Projeto 4: Integração RNA + AG** | Solução de problema real combinando redes neurais e algoritmos genéticos. |
+| **Monstrinho 3.1: “Eu podia jurar que não veria grafos nunca mais na minha vida” — aluno da turma 2024 que não quis se identificar** | Construção manual de um grafo para a expressão de uma função de perda. |
+| **Monstrinho 3.2: “Átomos não são bolinhas e ligações químicas não são pauzinhos” — Prof. Julio** | Desenvolvimento de código para aplicação dos conceitos de classes. |
+| **Monstrinho 3.3: Classes em Python não pagam imposto sobre herança** | Modelagem de conceito científico usando herança de classes. |
+| **Monstrinho 3.4: __dunder__** | Criação de novos métodos dunder para resolver um problema. |
 
 ---
 
