@@ -23,6 +23,7 @@ A disciplina abordou conceitos fundamentais e aplicações práticas de **redes 
 | **Monstrinho 3.2: “Átomos não são bolinhas e ligações químicas não são pauzinhos” — Prof. Julio** | Desenvolvimento de código para aplicação dos conceitos de classes. |
 | **Monstrinho 3.3: Classes em Python não pagam imposto sobre herança** | Modelagem de conceito científico usando herança de classes. |
 | **Monstrinho 3.4: __dunder__** | Criação de novos métodos dunder para resolver um problema. |
+| **Monstrinho 3.7:  Comparando as performances** | Comparação da performance entre os algoritmos de busca aleatória, em grade e genéticos |
 | **Fera 4.2: Stop right now, thank you very much** | Implementação da técnica de Parada Antecipada (*Early Stopping*) no processo de treino de uma rede neural, em Python puro ou PyTorch. |
 | **Fera 4.9: A senha de tamanho variável** | Desenvolvimento de um algoritmo genético capaz de encontrar senhas sem saber previamente o tamanho, com operadores adaptados à variação de comprimento. |
 | **Fera 4.10: O caixeiro que prefere cidades ímpares** | Versão modificada do problema do caixeiro viajante em que o trajeto deve priorizar cidades ímpares antes das pares, com visualização gráfica. |
